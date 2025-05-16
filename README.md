@@ -1,8 +1,10 @@
 Linear Algebra for Machine Learning and Deep Learning
+
 🟠 Scalars
 What are Scalars?
 A scalar is a single numeric quantity, fundamental in machine learning for computations, and in deep learning for learning rates and loss values.
 ➤ Importance: Essential for all computations.
+
 
 🟢 Vectors
 What are Vectors?
@@ -80,6 +82,7 @@ DL: Reducing redundancy in input space.
 Vector Spaces
 Spaces for input/output in ML and layer transformations in DL.
 
+
 🟣 Matrices
 What are Matrices?
 2D arrays used to represent features, weights, and transformations.
@@ -138,6 +141,7 @@ Change of Basis
 Transforms data across coordinate systems.
 [L] Learn Later
 
+
 🔷 Systems of Equations and Transformations
 Solving a System of Linear Equations
 Used in:
@@ -162,6 +166,7 @@ Dimensionality reduction.
 
 Feature construction.
 
+
 🟡 Dot and Cross Product
 Dot Product
 Results in scalar.
@@ -173,6 +178,7 @@ DL: Weighted input sums.
 Cross Product
 Produces orthogonal vector in 3D space.
 [L] Learn Later
+
 
 🔴 Tensors
 What are Tensors?
@@ -193,6 +199,7 @@ Addition, multiplication, reshaping for weight/data manipulation.
 Data Representation
 Images, text, audio—all as tensors in models.
 
+
 🟤 Eigen Concepts
 Eigenvalues and Eigenvectors
 Used in:
@@ -204,6 +211,7 @@ DL: Optimization behavior.
 Eigenfaces
 Used in facial recognition.
 [L] Learn Later
+
 
 🟣 Dimensionality Reduction & Factorization
 Principal Component Analysis (PCA)
