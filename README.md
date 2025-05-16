@@ -1,41 +1,25 @@
-Linear Algebra for Machine Learning and Deep Learning
-
-🟠 Scalars
-What are Scalars?
-A scalar is a single numeric quantity, fundamental in machine learning for computations, and in deep learning for learning rates and loss values.
-➤ Importance: Essential for all computations.
-
-
-🟢 Vectors
-What are Vectors?
-Arrays of numbers that can represent multiple forms of data.
-
-In ML: Represent data points.
-
-In DL: Represent features, weights, biases.
-➤ Very Important
-
+<h1>Machine Learning and Deep Learning</h1>
+📘 Module Topic Usage in Machine Learning
+ Scalars
+ Vectors
 Row Vector and Column Vector
 Different representations of vectors affect computations like matrix multiplication, which is critical in neural network operations.
 
 Distance from Origin
 The magnitude of a vector from the origin.
-
 ML: Used in normalization.
-
 DL: Helps understand magnitude of weights/features.
-[L] Learn Later
+
 
 Euclidean Distance
 Measures straight-line distance between two points/vectors.
-
 ML: Clustering, k-NN.
-
 DL: Used in loss functions like MSE.
 
-Scalar-Vector Operations
-Addition/Subtraction (Shifting): Useful for normalization and bias correction.
 
+Scalar-Vector Operations
+
+Addition/Subtraction (Shifting): Useful for normalization and bias correction.
 Multiplication/Division (Scaling): Used in data scaling and controlling learning rates.
 
 Vector-Vector Operations
@@ -222,7 +206,7 @@ Noise removal
 High-dimensional visualization
 
 Embedding interpretation
-[L] Learn Later
+
 
 Matrix Factorization Techniques
 LU Decomposition – Solves linear systems.
